@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/
+data/
+_targets/
+.DS_Store
+.httr-oauth
