@@ -2,5 +2,6 @@
 pkgs <-
   c(
     'tidyverse',
-    'here'
+    'here',
+    'clustermq'
   )
